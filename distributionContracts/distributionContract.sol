@@ -9,7 +9,7 @@ import "github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contr
 //more memebers can be added - just be sure to update the 'distribtuionAmount'
 //so that it is divided by the total number of members.
 
-contract vulcanDistributionContract {
+contract distributionContract {
     
     using SafeMath for uint;
     
